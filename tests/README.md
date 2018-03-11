@@ -1,0 +1,1 @@
+It is suggested that tests go here.  Or, come up with your own layout.  It's your project.

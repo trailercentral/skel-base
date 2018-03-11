@@ -1,0 +1,1 @@
+It is suggested that the app's src goes here.  Or, come up with your own layout.  It's your project.
