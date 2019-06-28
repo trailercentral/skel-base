@@ -1,5 +1,8 @@
+### Application/Repository Attributes Entries
+# (put your application's/repository specific attribute entries here)
+
 # =========================================================================== #
-### TrailerCentralCommonGitAttributes version 2018-03-04
+### TrailerCentralCommonGitAttributes version 2019-06-27
 # =========================================================================== #
 # Enforce Unix newlines
 *.php          text eol=lf
